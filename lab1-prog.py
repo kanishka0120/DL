@@ -100,3 +100,4 @@ class gates():
                 i = 0
             else:
                 i += 1
+  
